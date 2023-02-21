@@ -10,3 +10,6 @@ Our community is open to developers of all skill levels, where they can create
 projects and collaborate with others on various programming languages and
 frameworks. We encourage individuals to share their knowledge, offer help and
 support each other as they work towards building great products.
+
+If you're interested in joining our community or have any questions,please feel
+free to reach out to us at zhiguang.c@gmail.com.
